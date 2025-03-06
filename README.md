@@ -20,13 +20,13 @@ langkah-langkah untuk menginstal dependensi dan menjalankan aplikasi ini lokal.
 Clone repositori ini ke mesin lokal Anda menggunakan perintah berikut:
 
 ```bash
-git clone https://link-ke-repository-anda.git
+git clone https://github.com/AkhmalN/vue-todo-march.git
 ```
 
 ### 2. Masuk Directory Proyek
 
 ```bash
-cd todo-test
+cd vue-todo-march
 ```
 
 ### 3. Install Dependensi
