@@ -51,7 +51,6 @@ export const useTodoStore = defineStore("todos", {
         const data = await response.json();
         const limitedData = data.slice(0, 5);
 
-        // Update todos state dengan data terbatas
         this.todos = limitedData;
 
         if (this.todos.length > 0) {
